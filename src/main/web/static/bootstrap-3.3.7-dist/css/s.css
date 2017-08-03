@@ -1,0 +1,14 @@
+fieldset{padding:.35em .625em .75em;margin:0 2px;border:1px solid silver}
+legend{padding:.5em;border:0;width:auto}
+
+.table-striped>thead>tr{background-color:#99b2ff}
+.table-striped>tbody>tr:nth-of-type(odd){background-color:#e5eeff}
+
+.glyphicon-pencil:before{content:"\270f"}
+.btn-group-lg>.btn,.btn-lg{
+    background-color:#99b2ff;
+    border:0;
+    width: 150px;
+    height: 50px;}
+
+.btn-primary{color:#fff;background-color:#99b2ff;border-color:#99b2ff}
